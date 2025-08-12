@@ -1,67 +1,94 @@
-<!-- README.md - Advanced Creative Template for charith-codex -->
 <div align="center">
-  <!-- Header / Animated typing (keeps your original style) -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Metal&size=30&pause=1000&width=720&lines=Hey+Welcome+to+my+GitHub+Playground!)](https://git.io/typing-svg)
+  <img src="https://readme-typing-svg.demolab.com?font=Metal&size=35&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Charith!;" alt="Typing SVG" />
+</div>
 
-  <h3>Hi — I'm <strong>Charith Wickramasinghe</strong> 👋</h3>
-  <p>Full-stack web dev · Open source explorer · UI tinkerer · Cloud enthusiast 🚀</p>
-
-  <!-- Social / contact -->
-  <p>
-    <a href="https://github.com/charith-codex"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-@charith--codex-181717?style=for-the-badge&logo=github"></a>
-    <a href="https://www.linkedin.com/in/your-linkedin"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-    <a href="mailto:youremail@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-hello%40you-ff69b4?style=for-the-badge&logo=gmail"></a>
-  </p>
+<div align="center">
+  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://your-portfolio-website.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-D14836?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
+  </a>
 </div>
 
 ---
 
-## ✨ Quick snapshot
+### 👨‍💻 About Me
+
+> I'm a passionate full-stack developer from Sri Lanka 🇱🇰 with a love for building beautiful and functional web applications. I thrive on turning complex problems into simple, elegant solutions. My goal is to leverage technology to create impactful digital experiences. 🚀
+
+-   🌱 I’m currently diving deeper into **Cloud Architecture & AI Integrations**.
+-   🔭 I’m looking to collaborate on **innovative open-source projects**.
+-   💬 Ask me about **React, Next.js, and modern web development**.
+-   📫 How to reach me: **charith.wickramasinghe.dev@gmail.com**
+
+---
+
+### 📊 My GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=charith-codex&show_icons=true&theme=radical" alt="Charith's GitHub stats" width="47%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charith-codex&layout=compact&theme=radical" alt="Top languages" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=charith-codex&show_icons=true&theme=radical&rank_icon=github" alt="Charith's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charith-codex&layout=compact&theme=radical" alt="Charith's Top Languages"/>
+</div>
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=charith-codex&theme=radical" alt="Charith's GitHub Streak"/>
 </div>
 
 ---
 
-## 🛠 Tech & Tools I ❤️
-<p align="center">
-  <!-- Use the shields you already like, compact row -->
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img alt="React" src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</p>
+### 🛠️ My Tech Stack
+
+Here are the technologies I work with.
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Frontend</strong><br>
+      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+      <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS">
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+    </td>
+    <td valign="top" width="50%">
+      <strong>Backend</strong><br>
+      <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Database</strong><br>
+      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+    </td>
+    <td valign="top" width="50%">
+      <strong>DevOps & Cloud</strong><br>
+      <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare">
+      <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white" alt="DigitalOcean">
+      <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+      <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify">
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🚀 Featured Projects
-> Click “Code” to open the repo, “Live” for the deployed demo, and “Files” to jump to curated file(s) in that repo.
+### 🚀 Project Spotlight
 
-<!-- Card 1 -->
-### 🔭 Project Name — Awesome Web App
-- Short description: a one-line summary of what it does and tech used.
-- Demo: [Live](https://your-live-link.com) • [Code](https://github.com/charith-codex/project-repo) • [Files →](https://raw.githubusercontent.com/charith-codex/project-repo/main/docs/README.md)
+Here are some of the projects I'm proud of. You can find more on my repositories page.
 
-<!-- Card 2 -->
-### 🧩 Another Project — Component Library
-- Short description: reusable UI components built with Tailwind and React.
-- Demo: [Live](https://your-component-playground.com) • [Code](https://github.com/charith-codex/component-library) • [Files →](https://raw.githubusercontent.com/charith-codex/component-library/main/packages/ui/README.md)
+*(To enable this section, pin repositories to your GitHub profile!)*
 
-> Tip: Replace the placeholders above with your real live links and repo names.
-
----
-
-## 📂 Useful repo files (direct links)
-You can link any raw file in your repos using the `raw.githubusercontent.com` pattern. Replace `main` with your branch if needed.
-
-- Resume (PDF) — `https://raw.githubusercontent.com/charith-codex/portfolio/main/resume.pdf`  
-- Contributing guide — `https://raw.githubusercontent.com/charith-codex/project-repo/main/CONTRIBUTING.md`  
-- Demo instructions — `https://raw.githubusercontent.com/charith-codex/component-library/main/README.md`  
-- License — `https://raw.githubusercontent.com/charith-codex/project-repo/main/LICENSE`
-
-**How to link a specific file (example):**
+<br>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=charith-codex&color=blueviolet&style=flat-square" alt="Profile Views">
+</div>
